@@ -7,6 +7,7 @@ title: Isomorphic applications
 ---
 
 ## Benefits
+
 * SEO improvements
 * Performance benefits
 
@@ -32,3 +33,13 @@ Note:
 * LCP: Largest Contentful Paint
 
 ---
+
+## References
+
+----
+
+### Books
+
+* [Isomorphic web applications](https://www.manning.com/books/isomorphic-web-applications?query=isomo)
+* [Express in action](https://www.manning.com/books/express-in-action?query=express)
+
