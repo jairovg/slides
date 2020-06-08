@@ -1,6 +1,6 @@
 # Reveal-md slides
 
-Here leaves my slides created to be run using [reveal-md](https://github.com/jairovg/reveal-md).
+Here lives my slides created to be run using [reveal-md](https://github.com/jairovg/reveal-md).
 
 ## Setup
 
